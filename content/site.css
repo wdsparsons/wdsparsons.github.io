@@ -175,7 +175,7 @@ height: 70px;
 }
 h2{
     color: #DFDFDF;
- 
+
 }
 .card{
     background-color: white;
@@ -312,7 +312,7 @@ button:hover{
 }
 #selfie{
 width:100%;
-padding-top: 250px;
+padding-top: calc(10%);
 margin-left: auto;
     margin-right: auto;
     text-align: center;
