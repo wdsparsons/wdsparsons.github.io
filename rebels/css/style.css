@@ -1,0 +1,59 @@
+body{
+	margin-top:50px;
+}
+.navbar-dark{
+	background: #000000;
+	
+	font-family: Poppins;
+}
+
+.navbar-brand{
+	
+}
+
+#mainwheel{
+	background: url(../img/mainwheel1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: calc(100dvh - 150px);
+	color: #fff;
+	font-family: Poppins;
+	text-align: center;
+
+	vertical-align: middle;
+
+
+}
+
+#joinus{
+	font-family: Poppins;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.brianimg{
+	height:750px;
+	width: auto;
+}
+#mainwheel h1{
+	font-size: 5vw;
+	margin-top: 75px;
+}
+
+#mainwheel p{
+	max-width: 750px;
+	text-align: center;
+}
+
+#Aboutus{
+	margin-top: 20px;
+}
+
+.abouttext{
+	font-family: Poppins;
+	text-align: center;
+}
+
+footer{
+	padding:30px;
+}
