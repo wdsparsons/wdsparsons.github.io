@@ -1,11 +1,11 @@
 body{
 	margin:0px;
-	margin-top:3vw;
+	margin-top:50px;
 	font-family: Poppins;
 }
 .navbar-dark{
 	background: #000000;
-	line-height: 5vw;
+	
 	font-family: Poppins;
 	font-size: min(7vw, 35px);
 	
