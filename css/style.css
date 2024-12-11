@@ -15,7 +15,7 @@ body{
 	background: url(../img/mainwheel1.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
-	min-height: 1050px;
+	min-height: 1365px;
 	color: #fff;
 	font-family: Poppins;
 	text-align: center;
@@ -36,12 +36,13 @@ body{
 	width: auto;
 }
 #mainwheel h1{
-	font-size: 5vw;
+	font-size: 6vw;
 	margin-top: 75px;
 }
 
 #mainwheel p{
 	max-width: 750px;
+	font-size: 2vw;
 	text-align: center;
 }
 
