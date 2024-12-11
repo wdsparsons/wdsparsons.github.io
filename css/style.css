@@ -11,7 +11,7 @@ body{
 	
 }
 
-
+.container-fluid { padding: 0; }
 p{
 	text-align: center;
 	font-size: min(3vw, 20px);
