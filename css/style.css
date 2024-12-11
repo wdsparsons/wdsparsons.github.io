@@ -9,7 +9,7 @@ body{
 }
 
 .logo{
-	height:3vh;
+	height:3vh !important;
 }
 
 p{
