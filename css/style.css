@@ -18,7 +18,7 @@ p{
 	background: url(../img/mainwheel2.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
-	min-height: min(2048px,100vh - 170px);
+	min-height: max(2048px,100vw - 250px);
 	color: #fff;
 	font-family: Poppins;
 	text-align: center;
