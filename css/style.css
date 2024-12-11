@@ -8,12 +8,10 @@ body{
 	font-size: min(5vw, 30px);
 }
 
-.logo{
-	height:3vh !important;
-}
 
 p{
 	text-align: center;
+	font-size: min(3vw, 20px);
 }
 
 #mainwheel{
