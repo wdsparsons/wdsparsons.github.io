@@ -1,5 +1,6 @@
 body{
 	margin-top:3vw;
+	font-family: Poppins;
 }
 .navbar-dark{
 	background: #000000;
@@ -18,7 +19,7 @@ p{
 	background: url(../img/mainwheel2.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
-	min-height: max(2048px,100vw - 250px);
+	min-height:2048px;
 	color: #fff;
 	font-family: Poppins;
 	text-align: center;
